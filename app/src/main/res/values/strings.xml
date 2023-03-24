@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidERestaurant</string>
+    <string name="home_title">BONGO</string>
+    <string name="bouton_entre">ENTREE</string>
+    <string name="bouton_plat">PLAT</string>
+    <string name="bouton_dessert">DESSERT</string>
+    <string-array name="entrer">
+        <item>Entrée 1</item>
+        <item> Entrée 2</item>
+        <item> Entrée 3</item>
+        <item> Entrée 4</item>
+        <item> Entrée 5</item>
+        <item> Entrée 6</item>
+
+
+    </string-array>
+</resources>
